@@ -29,7 +29,7 @@ To modernize the CS department at SWU by building practical AI-powered systems t
 <table>
   <tr>
     <td width="180" align="center" valign="top">
-      <img src="logos/chiron.svg" width="120"/><br/><br/>
+      <img src="https://raw.githubusercontent.com/SWU-CS-Intelligence-Lab/.github/main/logos/chiron.svg" width="120"/><br/><br/>
       <strong>Chiron</strong><br/>
       <em>AI Learning Sandbox</em>
     </td>
@@ -46,7 +46,7 @@ To modernize the CS department at SWU by building practical AI-powered systems t
   <tr><td colspan="2"><br/></td></tr>
   <tr>
     <td width="180" align="center" valign="top">
-      <img src="logos/heimdall.svg" width="120"/><br/><br/>
+      <img src="https://raw.githubusercontent.com/SWU-CS-Intelligence-Lab/.github/main/logos/heimdall.svg" width="120"/><br/><br/>
       <strong>Heimdall</strong><br/>
       <em>Few-Shot Learning Platform</em>
     </td>
@@ -62,7 +62,7 @@ To modernize the CS department at SWU by building practical AI-powered systems t
   <tr><td colspan="2"><br/></td></tr>
   <tr>
     <td width="180" align="center" valign="top">
-      <img src="logos/iris.svg" width="120"/><br/><br/>
+      <img src="https://raw.githubusercontent.com/SWU-CS-Intelligence-Lab/.github/main/logos/iris.svg" width="120"/><br/><br/>
       <strong>IRIS</strong><br/>
       <em>Skill Gap Intelligence System</em>
     </td>
@@ -78,7 +78,7 @@ To modernize the CS department at SWU by building practical AI-powered systems t
   <tr><td colspan="2"><br/></td></tr>
   <tr>
     <td width="180" align="center" valign="top">
-      <img src="logos/janus.svg" width="120"/><br/><br/>
+      <img src="https://raw.githubusercontent.com/SWU-CS-Intelligence-Lab/.github/main/logos/janus.svg" width="120"/><br/><br/>
       <strong>Janus</strong><br/>
       <em>Agentic Admission Chatbot</em>
     </td>
@@ -102,7 +102,7 @@ Projects in this section are independent studies by lab advisees. They are built
 <table>
   <tr>
     <td width="180" align="center" valign="top">
-      <img src="logos/homa.svg" width="120"/><br/><br/>
+      <img src="https://raw.githubusercontent.com/SWU-CS-Intelligence-Lab/.github/main/logos/homa.svg" width="120"/><br/><br/>
       <strong>HOMA</strong><br/>
       <em>Hotel Market Analytics</em>
     </td>
