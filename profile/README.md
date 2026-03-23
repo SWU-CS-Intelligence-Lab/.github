@@ -17,10 +17,10 @@ To modernize the CS department at SWU by building practical AI-powered systems t
 
 | Pillar | Goal |
 |--------|------|
-| **Learning Excellence** | Equip students with hands-on AI/ML tools and up-to-date curricula that reflect real-world skill demands |
-| **Operation Excellence** | Automate and optimize departmental processes through data-driven and AI-assisted workflows |
-| **Research Excellence** | Build and share open platforms that accelerate empirical research, particularly in machine learning and few-shot learning |
-| **Service Excellence** | Deliver intelligent front-facing services — chatbots, analytics tools — that better serve students, faculty, and industry partners |
+| <img src="https://raw.githubusercontent.com/SWU-CS-Intelligence-Lab/.github/main/logos/learning-excellence.png" width="40"/> **Learning Excellence** | Equip students with hands-on AI/ML tools and up-to-date curricula that reflect real-world skill demands |
+| <img src="https://raw.githubusercontent.com/SWU-CS-Intelligence-Lab/.github/main/logos/operation-excellence.png" width="40"/> **Operation Excellence** | Automate and optimize departmental processes through data-driven and AI-assisted workflows |
+| <img src="https://raw.githubusercontent.com/SWU-CS-Intelligence-Lab/.github/main/logos/researech-excellence.png" width="40"/> **Research Excellence** | Build and share open platforms that accelerate empirical research, particularly in machine learning and few-shot learning |
+| <img src="https://raw.githubusercontent.com/SWU-CS-Intelligence-Lab/.github/main/logos/service%20excellence.png" width="40"/> **Service Excellence** | Deliver intelligent front-facing services — chatbots, analytics tools — that better serve students, faculty, and industry partners |
 
 ---
 
