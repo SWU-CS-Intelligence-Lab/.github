@@ -1,4 +1,4 @@
-# SWU-CS Intelligence Lab
+# VRU-AI SWU Lab
 
 > **Department of Computer Science, Faculty of Science**  
 > Srinakharinwirot University (SWU), Bangkok, Thailand
