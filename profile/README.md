@@ -126,7 +126,7 @@ The `swu-courses/` repository contains lecture notes and tutorials authored for 
 
 | Course | Contents |
 |--------|----------|
-| [**Artificial Intelligence**](https://github.com/Ratchainant/swu-courses/tree/main/artificial-intelligence) | 15-week course — Part 1: RL fundamentals (MDP, Bellman, Q-Learning, DQN, PPO); Part 2: LLMs & Agentic AI (Transformers, LoRA, RLHF, ReAct, RAG, Multi-Agent, Safety) |
+| [**Artificial Intelligence**](https://github.com/VRU-AI-SWU/swu-courses/tree/main/artificial-intelligence) | 15-week course — Part 1: RL fundamentals (MDP, Bellman, Q-Learning, DQN, PPO); Part 2: LLMs & Agentic AI (Transformers, LoRA, RLHF, ReAct, RAG, Multi-Agent, Safety) |
 | **Git & GitHub Tutorials** | 5-part hands-on series for students with no prior experience (Concepts → Setup → Solo Workflow → Common Situations → Collaboration) |
 | **Data Analytics** | *(Coming soon)* |
 | **Statistics** | *(Coming soon)* |
@@ -168,7 +168,7 @@ Most projects require:
 |-|-|
 | **Lab** | SWU-CS Intelligence Lab |
 | **Department** | Computer Science, Faculty of Science, Srinakharinwirot University |
-| **GitHub Organization** | [github.com/SWU-CS-Intelligence-Lab](https://github.com/SWU-CS-Intelligence-Lab) |
+| **GitHub Organization** | [github.com/SWU-CS-Intelligence-Lab](https://github.com/VRU-AI-SWU) |
 
 ---
 
